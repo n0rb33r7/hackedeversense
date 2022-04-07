@@ -1,4 +1,4 @@
-# How to install Eversense CGM 1.2.106
+# How to install Eversense CGM 1.2.107
 
 1. Install ADB client on your laptop/PC: https://www.xda-developers.com/install-adb-windows-macos-linux/
 2. Enable USB Debugging on your Android
